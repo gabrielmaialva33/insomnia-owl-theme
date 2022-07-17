@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-theme-omni-owl",
   "description": "Official Omni Theme. A dark theme created by Maia!",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "insomnia": {
     "name": "omni-owl-theme",
     "displayName": "Omni Owl Theme",
