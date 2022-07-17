@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/gabrielmaialva33/insomnia-plugin-theme-owl/master/.github/assets/icon.png" alt="Omni OWL Logo" width="100">
+  <img src="https://raw.githubusercontent.com/gabrielmaialva33/insomnia-owl-theme/master/.github/assets/icon.png" alt="Omni OWL Logo" width="100">
   <br>
   Omni Owl for <a href="https://insomnia.rest">Insomnia</a>
   <br>
@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/gabrielmaialva33/insomnia-plugin-theme-owl?style=flat&logo=appveyor" alt="GitHub top language" >
-  <img src="https://img.shields.io/github/languages/count/gabrielmaialva33/insomnia-plugin-theme-owl?style=flat&logo=appveyor" alt="GitHub language count" >
-  <img src="https://img.shields.io/github/repo-size/gabrielmaialva33/insomnia-plugin-theme-owl?style=flat&logo=appveyor" alt="Repository size" >
-  <a href="https://github.com/gabrielmaialva33/insomnia-plugin-theme-owl/commits/master">
-    <img src="https://img.shields.io/github/last-commit/gabrielmaialva33/insomnia-plugin-theme-owl?style=flat&logo=appveyor" alt="GitHub last commit" >
+  <img src="https://img.shields.io/github/languages/top/gabrielmaialva33/insomnia-owl-theme?style=flat&logo=appveyor" alt="GitHub top language" >
+  <img src="https://img.shields.io/github/languages/count/gabrielmaialva33/insomnia-owl-theme?style=flat&logo=appveyor" alt="GitHub language count" >
+  <img src="https://img.shields.io/github/repo-size/gabrielmaialva33/insomnia-owl-theme?style=flat&logo=appveyor" alt="Repository size" >
+  <a href="https://github.com/gabrielmaialva33/insomnia-owl-theme/commits/master">
+    <img src="https://img.shields.io/github/last-commit/gabrielmaialva33/insomnia-owl-theme?style=flat&logo=appveyor" alt="GitHub last commit" >
     <img src="https://img.shields.io/badge/made%20by-Maia-15c3d6?style=flat&logo=appveyor" alt="Maia" >
   </a>
 </p>
