@@ -1,0 +1,37 @@
+{
+  "name": "insomnia-plugin-theme-omni-owl",
+  "description": "Official Omni Theme. A dark theme created by Maia!",
+  "version": "1.0.0",
+  "insomnia": {
+    "name": "omni-owl-theme",
+    "displayName": "Omni Owl Theme",
+    "description": "A beautiful dark theme for Insomnia",
+    "images": {
+      "icon": ".github/assets/icon.png"
+    }
+  },
+  "main": "index.js",
+  "keywords": [
+    "theme",
+    "dark",
+    "insomnia",
+    "insomnia-theme",
+    "insomnia-plugin",
+    "color-theme",
+    "omni",
+    "owl",
+    "theme-omni-owl"
+  ],
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmaialva33/insomnia-owl-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabrielmaialva33/insomnia-owl-theme/issues"
+  },
+  "homepage": "https://github.com/gabrielmaialva33/insomnia-owl-theme#readme",
+  "license": "MIT"
+}
