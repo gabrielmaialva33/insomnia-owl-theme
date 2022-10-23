@@ -65,5 +65,35 @@ module.exports = {
         },
       },
     },
+    rawCss: `
+      .swagger-ui .opblock-description-wrapper, .swagger-ui .opblock-external-docs-wrapper, .swagger-ui .opblock-title_normal {
+        color: #E89E64;
+        font: 400 14px/1.5 "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .example {
+        background: #13111B;
+        background-color: #13111B;
+      }
+
+      .microlight {
+        background: #13111B;
+        background-color: #13111B;
+      }
+
+      .body-param__example.microlight {
+        background: #13111B;
+        background-color: #13111B;
+      }
+
+      #swagger-ui-wrapper.microlight {
+        background: #13111B;
+        background-color: #13111B;
+      }
+
+      #swagger-ui-wrapper code {
+         background-color: #13111B;
+      }
+    `,
   },
 };
