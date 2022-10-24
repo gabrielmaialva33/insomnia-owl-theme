@@ -72,18 +72,22 @@ module.exports = {
       }
 
       .example {
-        background: #13111B;
-        background-color: #13111B;
+        background: #231c2c !important;
+        background-color: #231c2c !important;
       }
 
       .microlight {
-        background: #13111B;
-        background-color: #13111B;
+        background: #231c2c !important;
+        background-color: #231c2c !important;
       }
 
       .body-param__example.microlight {
-        background: #13111B;
-        background-color: #13111B;
+        background: #231c2c !important;
+        background-color: #231c2c !important;
+      }
+
+      .language-json {
+        border: 0 !important;
       }
 
       #swagger-ui-wrapper.microlight {
@@ -92,7 +96,7 @@ module.exports = {
       }
 
       #swagger-ui-wrapper code {
-         background-color: #13111B;
+        background-color: #13111B;
       }
     `,
   },
